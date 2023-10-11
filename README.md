@@ -27,7 +27,7 @@ Utilisez votre souris pour déplacer la barre horizontalement et renvoyer la bal
 
 ## Aperçu
 
-![()
+!()
 
 
 
